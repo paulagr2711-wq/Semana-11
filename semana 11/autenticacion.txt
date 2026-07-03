@@ -1,0 +1,6 @@
+El login o inicio de sesión en una aplicación es el mecanismo de seguridad principal que verifica la identidad real de una persona antes de otorgarle 
+acceso a las funcionalidades de su cuenta. Es imprescindible que algunas rutas y secciones de la plataforma estén protegidas para evitar que usuarios
+no autorizados puedan acceder a paneles administrativos, alterar registros de otros vecinos o modificar configuraciones críticas del sistema. 
+
+Finalmente, por razones de privacidad y seguridad extrema, jamás se debe exponer públicamente información personal sensible como contraseñas, documentos
+de identidad, correos electrónicos, teléfonos personales, direcciones exactas de residencia o tokens de API de la plataforma.

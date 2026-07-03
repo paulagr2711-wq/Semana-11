@@ -1,0 +1,10 @@
+
+Reflexion del dia:
+
+Una plataforma tecnológica orientada a la participación ciudadana requiere obligatoriamente una base de datos robusta para poder guardar, categorizar
+y recuperar sin errores las miles de propuestas y votos generados por la comunidad a lo largo del tiempo. Por otro lado, la autenticación de usuarios
+es el pilar que le da validez a todo el proceso: garantiza que cada apoyo provenga de un vecino real, evitando la manipulación por parte de cuentas falsas,
+lo cual es fundamental para poder tomar decisiones democráticas legítimas. Además, contar con un sistema de login permite mantener una comunicación directa
+con cada ciudadano para informarle sobre el avance de sus reportes. Finalmente, la protección rigurosa de la información personal es lo que genera y mantiene
+la confianza de la comunidad; si las personas sienten que sus datos podrían filtrarse o ser mal utilizados, simplemente dejarán de participar, causando el fracaso 
+total de cualquier iniciativa de organización digital.

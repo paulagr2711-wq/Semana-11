@@ -1,0 +1,24 @@
+Entidad: Denuncia Vecinal
+
+Campos principales:
+- id
+- tipo problema
+- descripcion detallada
+- ubicacion gps
+- estado resolucion
+
+Propósito:
+Almacenar y estructurar la información de los incidentes reportados por los vecinos para que las autoridades puedan visualizarlos y gestionarlos de forma eficiente en el sistema.
+
+
+Entidad: Comentario de Seguimiento
+
+Campos principales:
+- id
+- denuncia id
+- autor id
+- mensaje texto
+- fecha publicacion
+
+Propósito:
+Permitir un canal de retroalimentación donde tanto los residentes como los encargados puedan publicar actualizaciones o debatir sobre el progreso de una denuncia o causa específica.

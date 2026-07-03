@@ -1,0 +1,7 @@
+La interfaz principal de la plataforma consistirá en un muro interactivo donde los ciudadanos verán una lista de todas las causas disponibles en 
+su municipio, ordenadas desde la más reciente a la más antigua. Cada causa se presentará en una tarjeta visual limpia que incluirá un breve resumen,
+un botón destacado para apoyar la causa y un contador dinámico que se actualiza en tiempo real mostrando cuántos vecinos ya se han sumado a la iniciativa.
+
+Además, en la parte superior de la pantalla, siempre estará visible un botón de "Nueva Causa", el cual al presionarlo desplegará un formulario muy intuitivo
+que pedirá únicamente el título del proyecto, una descripción del beneficio esperado y una fotografía de soporte. Toda esta interfaz estará diseñada para ser
+rápida de usar y protegerá la privacidad ocultando los datos sensibles de los usuarios.
